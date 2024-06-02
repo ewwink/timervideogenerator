@@ -1,0 +1,64 @@
+@font-face {
+    font-family: DigitalNumbers;
+    src: url(https://cdn.jsdelivr.net/gh/s-a/digital-numbers-font@gh-pages/dist/DigitalNumbers-Regular.ttf);
+}
+
+h1 {
+    font-size: 1.2rem;
+}
+
+.container {
+    max-width: 1180px;
+}
+
+.col {
+    min-width: 320px;
+}
+
+.text-label {
+    display: inline-block;
+    min-width: 102px;
+}
+
+.box-label {
+    border: 1px solid #bbb;
+    padding: 0px 3px;
+    display: inline-block;
+    background-color: aliceblue;
+    border-radius: 4px;
+}
+
+.no-list-style {
+    list-style: none;
+}
+
+#canvasPreview {
+    display: none;
+}
+
+#dataPreview {
+    margin: 0 auto;
+}
+
+#dataPreview video {
+    max-width: 100%;
+    height: auto;
+}
+
+option {
+    font-size: 22px;
+}
+
+textarea {
+    font-size: 0.8rem !important;
+}
+
+.blink_me {
+    animation: blinker 2s linear infinite;
+}
+
+@keyframes blinker {
+    30% {
+        opacity: 0;
+    }
+}
