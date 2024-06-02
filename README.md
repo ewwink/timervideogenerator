@@ -3,7 +3,7 @@
 Generate Stopwatch or Timer Countdown video in your browser
 
 ## Demo
-Timevidgen Generator is available [here](https://ewwink.github.io/timevidegen/)
+Timevidgen Generator is available [here](https://ewwink.github.io/timevidgen/)
 
 The Results:
 
