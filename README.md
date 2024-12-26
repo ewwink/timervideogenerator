@@ -1,6 +1,29 @@
 # Timevidgen :: Time Video Generator
 
-Generate Stopwatch or Timer Countdown video in your browser
+Generate Stopwatch or Timer Countdown video in your browser,  work locally so no need to be online and no need to download additional software.
+
+## How To
+- Download [this repo](https://github.com/ewwink/timervideogenerator/archive/refs/heads/main.zip)
+- Extract anywhere
+- open `index.html` and now it ready to generate the video
+
+## FAQ:
+
+- What the output of the Video?
+  
+The output is `.webm` video
+
+- How to use it in my video?
+  
+Watch this video tutorial: [Desktop](https://www.youtube.com/watch?v=6Udgoa26SDc) or [Phone](https://www.youtube.com/watch?v=D8YCTd-UTck).
+
+- How long does it take to generate the video?
+  
+Depending on the speed of your device, use Generator Calculator below to estimate.
+
+- Browser freeze/hang and ask to stop the tab?
+  
+Ignore it to continue the process.
 
 ## Demo
 Timevidgen Generator is available [here](https://ewwink.github.io/timevidgen/)
